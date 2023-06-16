@@ -1,12 +1,12 @@
 # Evan Brass
-Hi!  I'm Evan, a web developer.  I live near [mountains](https://photos.app.goo.gl/ubGZ9KjqafjHQJbQ7)... but I mostly stay indoors.
+Hi!  I'm Evan, a web developer.  I live near [mountains](https://photos.app.goo.gl/ubGZ9KjqafjHQJbQ7)... but mostly I stay indoors.
 
 Most days, you'll find me hacking on some browser API: webaudio, webgl, webassembly, webxr, webrtc, webpush, service-worker, webworkers, etc.  Rust and JavaScript (client or server side) are where I feel most productive, but I can probably dust off some C, C++, Java, PHP, or Python skills in a pinch.
 
 ## Mentorship
 The internet can be a thick inky black void sometimes.  You whisper into it and it may or may not answer your call.  If you'd like to summon someone out of the void, you can put something on my [calendar](https://calendar.app.google/cxSkbDFmwcmoGP4o8).  In plain words: I'm interested in meeting people and maybe trying to mentor them.  We can chat, program, debug, or whatever.
 
-If you're the kind of person that reads an invitation like that and thinks, "Sure that's available, but it's not really intended for me.  He's probably over-subscribed and if everyone took advantage of it, then there wouldn't be enough - so I'll just manage on my own." then please know that I have a special place in my heart for you.  You and I are cut from the same cloth.  Please click the link above, and if there's no time available, then send me an email and I'll make time for you.
+If you're the kind of person that reads an invitation like that and thinks, "Sure that's available, but it's not really intended for me.  He's probably 'over-subscribed' and if everyone took advantage of it, then there wouldn't be enough - so I'll just manage on my own." then please know that I have a special place in my heart for you.  You and I are cut from the same cloth.  Please click the link above, and if there's no time available, then send me an email and I'll make time for you.
 
 ## Interests
 There's a Raspberry Pi 3B+ kicking around my desk that was purchased with the express intention of writing an operating system from scratch, but then I learned that the Arm64 core was just a side show on the Broadcom GPU and then I got stuck trying to do VideoCore 4 programming in Rust.  That's a project that I'd like to resume someday.
